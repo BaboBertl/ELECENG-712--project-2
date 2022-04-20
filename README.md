@@ -7,7 +7,7 @@ Please also implement the Gaussian filtering and compare the results.
 
 Notes:
 
-  (1) For Gaussian filtering, you need to generate a global mask for the filter (make sure the total weights of your mask is one). For bilateral filtering, you need to         generate a mask for each pixel based on its local neighborhood. Again, the weights need to sum to 1 for each mask.
+  (1) For Gaussian filtering, you need to generate a global mask for the filter (make sure the total weights of your mask is one). For bilateral filtering, you need to         generate a mask for each pixel based on its local neighborhood. Again, the weights need to sum to one for each mask.
   
   (2) The neighborhood size for the mask may be adjusted, but starting from a 5*5 would be a good idea.
   
