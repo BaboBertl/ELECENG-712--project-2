@@ -1,5 +1,4 @@
 # ELECENG-712
-
 Digital Imaging - Project 2
 
 The purpose of this project is to develop a non-linear, feature-preserving spatial filter using the bilateral filtering discussed in the class (see attached PDF for equation).
