@@ -2,7 +2,7 @@
 
 Digital Imaging - Project 2
 
-The purpose of this project is to develop a non-linear, feature-preserving spatial filter using the bilateral filtering discussed in the class (see attached PDF).
+The purpose of this project is to develop a non-linear, feature-preserving spatial filter using the bilateral filtering discussed in the class (see attached PDF for equation).
 Please also implement the Gaussian filtering and compare the results.
 
 Notes:
