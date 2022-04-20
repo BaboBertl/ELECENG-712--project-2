@@ -1,3 +1,3 @@
-# ELECENG-712--project-2
+# ELECENG-712
 
 Digital Imaging - Project 2
